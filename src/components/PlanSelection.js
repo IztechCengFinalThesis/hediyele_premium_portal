@@ -23,7 +23,6 @@ const PlanSelection = ({ onPlanSelect }) => {
             <ul>
               <li>Premium gift recommendations</li>
               <li>Ad-free experience</li>
-              <li>Priority customer support</li>
               <li>Monthly billing</li>
             </ul>
           </div>
@@ -52,7 +51,6 @@ const PlanSelection = ({ onPlanSelect }) => {
             <ul>
               <li>Premium gift recommendations</li>
               <li>Ad-free experience</li>
-              <li>Priority customer support</li>
               <li>Access to exclusive collections</li>
               <li>Annual billing</li>
             </ul>

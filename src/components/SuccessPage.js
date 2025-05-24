@@ -30,7 +30,6 @@ const SuccessPage = ({ plan, amount }) => {
         <ul>
           <li>Premium gift recommendations</li>
           <li>Ad-free experience</li>
-          <li>Priority customer support</li>
           {plan === 'annual' && <li>Exclusive collections</li>}
         </ul>
       </div>
