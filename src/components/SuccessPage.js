@@ -36,13 +36,7 @@ const SuccessPage = ({ plan, amount }) => {
       
       <div className="cta-container">
         
-        
-        <button 
-          className="secondary-button"
-          onClick={() => window.close()}
-        >
-          Close Window
-        </button>
+        <p className="close-message">You can now close this page.</p>
       </div>
     </div>
   );
